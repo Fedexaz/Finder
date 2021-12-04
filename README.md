@@ -1,3 +1,3 @@
 # Block-Things
 
-Un prototipo de un shooter en tercera persona enfocado en eliminar otros enemigos (Bloques)
+Un prototipo de encontrar monedas en un laberinto para así superarlos (Diseñado para Android)
